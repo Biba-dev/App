@@ -93,7 +93,7 @@ public class Hospitals {
 				model.add(resource1, timestamp, france_hospitals_point[38]);
 				model.add(resource1, speciality, france_hospitals_point[39]);
 				model.add(resource1, osm_geom, france_hospitals_point[40]);
-				model.add(resource1, osm_orig_geom, france_hospitals_point[41].replaceAll("\\\"", ""));
+				//model.add(resource1, osm_orig_geom, france_hospitals_point[41].replaceAll("\\\"", ""));
 
 				// connection to triplestore
 
