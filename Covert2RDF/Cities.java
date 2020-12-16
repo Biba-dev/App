@@ -48,12 +48,12 @@ public class Cities {
 
 				// connection to triplestore
 
-				/*String datasetURL = "http://localhost:3030/HibaProject";
+				String datasetURL = "http://localhost:3030/HibaProject";
 				String sparqlEndpoint = datasetURL + "/sparql";
 				String sparqlUpdate = datasetURL + "/update";
 				String graphStore = datasetURL + "/data";
 				RDFConnection conneg = RDFConnectionFactory.connect(sparqlEndpoint, sparqlUpdate, graphStore);
-				conneg.load(model);*/
+				conneg.load(model);
 
 				model.write(System.out, "Turtle");
 			}
