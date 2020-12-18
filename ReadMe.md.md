@@ -28,12 +28,7 @@ The SPARQL queries can be found in the file  Services.java .
 * Slow performance, which we believe can be attributed to the triple store we selected.
 * There has been limitations on the kind of data that's acceptable to the web app.
 
-## Time Spent by each member (in hours)
 
-| Member Name | Time |
-| ----------- | ---- |
-| Aditya Das  | 70   |
-| Hiba Awad   | 72   |
 
 ## Conclusion and future work
 
