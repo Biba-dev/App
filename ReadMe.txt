@@ -6,5 +6,7 @@
 Note: the Limitation of showing the data is only because i have a big dataset.
 Note: My dataset is HibaProject and you can find an export of it in the github (in my dataset i have data of Hospitals in France, data of France's cities and data for SnCF transportation)
 the HTML files : "index" is the Home, "about" is for the hospital part , "services" is for the station part , "testimonials" is for the cities part and the "contact" for the contact page.
-
-
+Note:
+in hibaProject.rar you will find all the java codes and the Html, css , js files even the Queries will be found in it (like I mentioned in the 3rd line).
+in The dataset.rar you will find the dataset (triples).
+in Dynamic Data.java you will see the code to put the dynamic data for bikes.
