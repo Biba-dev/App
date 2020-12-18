@@ -9,10 +9,6 @@ In this section, we briefly explain the system model or the different component-
 
 This section provides for a detailed description of our model architecture with regards to this project that has been undertaken. Starting with a source of data we provide a mechanisim where we convert the data to RDF which is a data representation in Semantic Web for linked data with meaning (expressed as triples).  For better understanding, raw data is extracted and converted to RDF triples and stored in a triple store.  From the triple store, RDF data is queried and visually represented on a website designed by us. 
 
-```
-/Images/verb.jpg
-```
-
 The Fuseki database triple store is used to store the generated RDF data from raw graph. We further created a website using which we display a map-viewed location of many stations across the stations. All of these can also be queried from the same website smoothly. In case of data regarding locomotive aspects, there is dynamism involved which makes the data real-time and subject to changes with the passing of time.
 
 ## Semantic Technology Usage(s)
